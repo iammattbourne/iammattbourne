@@ -1,6 +1,6 @@
 ### Hey hey, I'm Matt! 👋
 
-- 🔭 I’m currently working at Substrakt
+- 🔭 I’m currently working at [Substrakt](https://substrakt.com/)
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with 
@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once performed on a West End stage
 
-<img src="https://github-readme-stats.vercel.app/api?username=iammattbourne&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=09076C">
+<img src="https://github-readme-stats.vercel.app/api?username=iammattbourne&&show_icons=true&title_color=ffffff&icon_color=fafafa&text_color=fafafa&bg_color=09076C">
