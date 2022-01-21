@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with 
 - 💬 Ask me about WordPress or any tech related stuff
-- 📫 How to reach me: 
+- 📫 How to reach me: [Twitter] (https://twitter.com/iammattbourne), [Email] (mailto:mattbournemedia@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once performed on a West End stage
 
