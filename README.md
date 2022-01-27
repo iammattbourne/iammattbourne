@@ -10,6 +10,7 @@
 - :running: Runner, explorer and self confessed techie
 - :performing_arts: Fun fact: I once performed on a West End stage
 
+<hr>
 
 ### My Skills!
 <span>
@@ -45,6 +46,8 @@
 <span>
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </span>
+
+<hr>
 
 ### How to Reach Me!
 <span>
