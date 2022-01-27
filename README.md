@@ -1,4 +1,4 @@
-### Hey hey, I'm Matt! 👋
+<h1>Hey hey, I'm Matt! 👋</h1>
 
 - :computer: I’m a Junior Web Developer currently working at [Substrakt](https://substrakt.com/)
 - :mortar_board: I am a Media and Communications Graduate from [Birmingham City University](https://www.bcu.ac.uk/)
@@ -7,18 +7,14 @@
 - :speech_balloon: Ask me about WordPress or any tech related stuff
 - :rocket: How to reach me: [Twitter](https://twitter.com/iammattbourne) or [Email](mailto:mattbournemedia.co.uk)
 - :man: Pronouns: He/Him
-- :running: Runner, explorer and self confessed techie
+- :running: Runner, :earth_africa: explorer and :man_technologist: self confessed techie
 - :performing_arts: Fun fact: I once performed on a West End stage
 
-<hr>
 
-### My Skills!
-<span>
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</span>
+<h2>My Skills!</h1>
 
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </span>
 
 <span>
@@ -26,17 +22,21 @@
 </span>
 
 <span>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </span>
-
-</br>
 
 <span>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </span>
 
+</br>
+
 <span>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</span>
+
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </span>
 
 <span>
@@ -47,9 +47,9 @@
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </span>
 
-<hr>
 
-### How to Reach Me!
+<h2>How to Reach Me!<h2>
+  
 <span>
   <a href="https://twitter.com/iammattbourne" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
